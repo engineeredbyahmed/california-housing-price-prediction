@@ -148,7 +148,7 @@ Learning curves were used to evaluate convergence, bias, variance, and generaliz
 
 The California Housing dataset is publicly available through **Scikit-learn**.
 
-It is **not included** in this repository.
+It is **included** in this repository.
 
 ```python
 from sklearn.datasets import fetch_california_housing
